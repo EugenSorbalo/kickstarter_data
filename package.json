@@ -1,0 +1,14 @@
+{
+  "name": "read",
+  "version": "1.0.0",
+  "description": "Reads json file",
+  "main": "read.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eugen",
+  "license": "ISC",
+  "dependencies": {
+    "event-stream": "^3.3.4"
+  }
+}
